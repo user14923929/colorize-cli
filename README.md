@@ -23,9 +23,9 @@ $ colorize "Hello, world!" -c "#ff6b35" --bold
 
 ```bash
 # Stable release
-paru -S colorize
+paru -S colorize-cli
 # or
-yay -S colorize
+yay -S colorize-cli
 ```
 
 ### Build from source
