@@ -26,9 +26,6 @@ $ colorize "Hello, world!" -c "#ff6b35" --bold
 paru -S colorize
 # or
 yay -S colorize
-
-# Latest git HEAD
-paru -S colorize-git
 ```
 
 ### Build from source
