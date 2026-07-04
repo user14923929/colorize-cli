@@ -1,0 +1,4 @@
+add_executable(colorize_tests test_colorize_core.cpp)
+target_link_libraries(colorize_tests PRIVATE colorize_core)
+
+add_test(NAME colorize_core_tests COMMAND colorize_tests)

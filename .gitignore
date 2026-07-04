@@ -1,0 +1,16 @@
+build/
+cmake-build-*/
+*.o
+*.obj
+*.a
+*.so
+*.exe
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+.vscode/
+.idea/
+*.pkg.tar.zst
+pkg/
